@@ -1,0 +1,18 @@
+.card-title,
+.card-text {
+  font-family: "Handlee", cursive;
+}
+.card-title {
+  font-weight: 600;
+  font-size: larger;
+}
+.card-text {
+  font-size: larger;
+}
+.text-body-secondary {
+  font-size: 14px;
+}
+.note {
+  background: url("https://www.owlsnestquilters.com/cdn/shop/products/1709_300x300.jpg?v=1631294177");
+  box-shadow: 0 0 28px -1px rgba(237, 197, 0, 0.68);
+}
